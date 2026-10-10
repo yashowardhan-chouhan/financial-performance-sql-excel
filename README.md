@@ -6,7 +6,7 @@ This project analyses financial income and expenses using SQL and Microsoft Exce
 
 ## Dashboard Preview
 
-![Financial Analysis Dashboard](Financial Analysis Dashboard.png)
+![Financial Analysis Dashboard](Financial-Analysis-Dashboard.png)
 
 
 ## Tools Used
