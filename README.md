@@ -4,6 +4,11 @@
 
 This project analyses financial income and expenses using SQL and Microsoft Excel. The objective was to evaluate financial performance against budget, calculate profitability, identify major income and expense categories, and provide insights to support financial decision-making.
 
+## Dashboard Preview
+
+![Financial Analysis Dashboard](FinancialAnalysisDashboard.png)
+
+
 ## Tools Used
 
 - **SQL** — querying, aggregating and analysing financial data
